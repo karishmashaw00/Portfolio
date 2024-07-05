@@ -655,6 +655,6 @@ margin-left: 100px;
     display: none;
   }
   .projects .portfolio-content{
-    grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
   }
 }
