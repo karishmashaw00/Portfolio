@@ -651,6 +651,12 @@ margin-left: 100px;
   height: 230px;
   margin-left: 20px;
   }
+  .about .information .info-box{
+    font-size: 15px;
+  }
+  .skills .skills-img{
+    height: 35px;
+  }
   .projects .project-box .layer p{
     display: none;
   }
